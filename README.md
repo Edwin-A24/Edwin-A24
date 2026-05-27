@@ -14,7 +14,6 @@ Currently, I focus on building full-stack applications using Java and Spring Boo
 - 💻 Backend and web development enthusiast
 - 🌱 Currently improving my skills in Java, Spring Boot, SQL, and software architecture
 - 📊 Interested in administrative systems, dashboards, and scalable applications
-- 🏀 Basketball fan
 
 ---
 
